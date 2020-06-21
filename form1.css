@@ -1,0 +1,26 @@
+body{
+    background-color: hsla(240, 100%, 27%, 0.726);
+    color: darkorange;
+    font-family: monospace;
+    font-size: large;
+}
+#name{
+    color: orangered;
+    text-align: left;
+    
+}
+#email{
+    text-align: center;
+   
+}
+h1{
+    font-family: serif;
+    font-weight: 800;
+    
+}
+button{
+    color: palegreen;
+    border-radius: 1,4;
+    float: left;
+    background-color: rebeccapurple;
+}
